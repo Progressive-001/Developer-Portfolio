@@ -50,8 +50,12 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Proficient in connecting front-end interfaces with serverless technologies like Firebase"),
-    emoji("⚡ Creating fully responsive designs that work seamlessly on mobile, tablet, and desktop")
+    emoji(
+      "⚡ Proficient in connecting front-end interfaces with serverless technologies like Firebase"
+    ),
+    emoji(
+      "⚡ Creating fully responsive designs that work seamlessly on mobile, tablet, and desktop"
+    )
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -68,7 +72,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Tailwind CSS",
-      fontAwesomeClassname: "fas fa-wind" 
+      fontAwesomeClassname: "fas fa-wind"
     },
     {
       skillName: "sass",
@@ -93,7 +97,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -110,15 +114,15 @@ const educationInfo = {
       duration: "June 2024 - December 2024",
       desc: "Successfully completed an intensive 6-month bootcamp, specializing in Front-End Architecture and UI/UX Implementation.",
       descBullets: [
-          "Led the frontend development for the capstone project CraftConnect, securing 1st Place among peer teams.", 
-          "Gained practical experience in full-cycle software development, focusing on Agile Team Collaboration and version control using Git/GitHub."
+        "Led the frontend development for the capstone project CraftConnect, securing 1st Place among peer teams.",
+        "Gained practical experience in full-cycle software development, focusing on Agile Team Collaboration and version control using Git/GitHub."
       ]
     },
     {
       schoolName: "Federal Polytechnic Ilaro",
       logo: require("./assets/images/IlaroLogo.png"),
       subHeader: "Higher Diploma in Civil Engineering",
-      duration: "September 2018 - January 2024",
+      duration: "September 2018 - January 2024"
     }
   ]
 };
@@ -126,11 +130,11 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, 
+  viewSkillBars: true,
   experience: [
     {
       Stack: "Responsive Web Design", // This means you are great at making sites work on Mobile/Desktop
-      progressPercentage: "90%" 
+      progressPercentage: "90%"
     },
     {
       Stack: "React.js Ecosystem", // This covers React, Hooks, Router, etc.
@@ -141,7 +145,7 @@ const techStack = {
       progressPercentage: "75%"
     }
   ],
-  displayCodersrank: false 
+  displayCodersrank: false
 };
 
 // Work experience section
@@ -187,7 +191,8 @@ const bigProjects = {
     {
       image: require("./assets/images/NetflixLogo.png"),
       projectName: "Netflix-Clone",
-      projectDesc: "A visual clone of the Netflix UI with movie data integration.",
+      projectDesc:
+        "A visual clone of the Netflix UI with movie data integration.",
       footerLink: [
         {
           name: "Visit Website",
@@ -198,7 +203,8 @@ const bigProjects = {
     {
       image: require("./assets/images/CraftConnectLogo.png"),
       projectName: "CraftConnect",
-      projectDesc: "Award-winning web platform connecting artisans with clients.",
+      projectDesc:
+        "Award-winning web platform connecting artisans with clients.",
       footerLink: [
         {
           name: "Visit Website",
@@ -206,7 +212,7 @@ const bigProjects = {
         }
       ]
     },
-      {
+    {
       image: require("./assets/images/WeatherAppLogo.png"),
       projectName: "WeatherApp",
       projectDesc: "Real-time weather tracking application.",
@@ -228,7 +234,7 @@ const bigProjects = {
         }
       ]
     },
-    { 
+    {
       image: require("./assets/images/CountryLogo.png"),
       projectName: "CountriesInfo",
       projectDesc: "REST API integration displaying details of all countries.",
@@ -239,7 +245,7 @@ const bigProjects = {
         }
       ]
     },
-    { 
+    {
       image: require("./assets/images/SpaceTourismLogo.png"),
       projectName: "SpaceTourism",
       projectDesc: "A multi-page space tourism website built with React.",
@@ -282,7 +288,8 @@ const achievementSection = {
     },
     {
       title: "CraftConnect - Grand Prize Winner",
-      subtitle: "Where artisans connect with opportunities. Award-winning final year project that secured the ₦100k Grand Prize for innovation and technical excellence.",
+      subtitle:
+        "Where artisans connect with opportunities. Award-winning final year project that secured the ₦100k Grand Prize for innovation and technical excellence.",
       image: require("./assets/images/CraftConnectLogo.png"),
       imageAlt: "CraftConnect Logo",
       footerLink: [
@@ -331,7 +338,7 @@ const podcastSection = {
 const resumeSection = {
   title: "Resume",
   subtitle: "Feel free to download my resume",
-  display: true 
+  display: true
 };
 
 const contactInfo = {
@@ -346,7 +353,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "wikiyo2000", // Extracted from your link
-  display: true 
+  display: true
 };
 
 const isHireable = true; // Set to true since you are a developer looking for roles
