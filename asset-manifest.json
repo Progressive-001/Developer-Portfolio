@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Developer-Portfolio/static/css/main.6a3f2d38.css",
+    "main.js": "/Developer-Portfolio/static/js/main.3584e2ed.js",
+    "static/css/64.bba8fa55.chunk.css": "/Developer-Portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/Developer-Portfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/Developer-Portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/Developer-Portfolio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/Developer-Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/IlltipLogo.png": "/Developer-Portfolio/static/media/IlltipLogo.87a82acbd52a16d7cf52.png",
+    "static/media/E-CommerceLogo.png": "/Developer-Portfolio/static/media/E-CommerceLogo.30e5ea5719c8b9ce2bf8.png",
+    "static/media/IlaroLogo.png": "/Developer-Portfolio/static/media/IlaroLogo.83feb83b9ec1526eb3bf.png",
+    "static/media/Agustina.woff": "/Developer-Portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/SpaceTourismLogo.png": "/Developer-Portfolio/static/media/SpaceTourismLogo.d287d07182de3015952f.png",
+    "static/media/manOnTable.svg": "/Developer-Portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/Developer-Portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/TechyLogo.png": "/Developer-Portfolio/static/media/TechyLogo.e1bdcd2a8ce733281fef.png",
+    "static/media/NetflixLogo.png": "/Developer-Portfolio/static/media/NetflixLogo.9dbdb5a80f1b1d6ed655.png",
+    "static/media/developerActivity.svg": "/Developer-Portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/CountryLogo.png": "/Developer-Portfolio/static/media/CountryLogo.c8712c83d52cb41f11b1.png",
+    "static/media/skill.svg": "/Developer-Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/Developer-Portfolio/index.html",
+    "main.6a3f2d38.css.map": "/Developer-Portfolio/static/css/main.6a3f2d38.css.map",
+    "main.3584e2ed.js.map": "/Developer-Portfolio/static/js/main.3584e2ed.js.map",
+    "64.bba8fa55.chunk.css.map": "/Developer-Portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/Developer-Portfolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/Developer-Portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/Developer-Portfolio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a3f2d38.css",
+    "static/js/main.3584e2ed.js"
+  ]
+}
