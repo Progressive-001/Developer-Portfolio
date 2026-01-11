@@ -42,8 +42,10 @@ export default function Contact() {
                 </>
               )}
               <a
+                href={`https://mail.google.com/mail/?view=cm&fs=1&to=${contactInfo.email_address}`}
                 className="contact-detail-email"
-                href={"mailto:" + contactInfo.email_address}
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 {contactInfo.email_address}
               </a>

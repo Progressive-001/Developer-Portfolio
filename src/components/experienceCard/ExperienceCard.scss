@@ -113,7 +113,11 @@
 }
 
 .experience-text-desc {
-  text-align: center;
+  justify-self: center;
+  text-align: justify;
+  width: 85%;
+  line-height: 1.8rem;
+  word-spacing: 0.1rem;
 }
 
 .experience-text-details {
