@@ -219,7 +219,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: " https://progressive-001.github.io/Weather-App/"
+          url: "https://weather-app-kappa-brown-46.vercel.app/"
         }
       ]
     },
@@ -230,7 +230,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://progressive-001.github.io/E-commerce-web-app/"
+          url: "https://e-commerce-web-app-fawn.vercel.app/"
         }
       ]
     },
@@ -241,7 +241,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://progressive-001.github.io/Rest-Countries-API/"
+          url: "https://rest-countries-api-brown-seven.vercel.app/"
         }
       ]
     },
@@ -252,7 +252,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://progressive-001.github.io/Space-Tourism/"
+          url: "https://space-tourism-3bij.vercel.app/Space-Tourism/"
         }
       ]
     }
