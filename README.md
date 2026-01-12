@@ -65,8 +65,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Progressive-001&show_icons=true&theme=radical" alt="Emmanuel's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Progressive-001&theme=radical" alt="GitHub Streak" />
+  
   <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Progressive-001&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
