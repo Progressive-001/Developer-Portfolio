@@ -19,6 +19,13 @@ code {
 html,
 body {
   scroll-behavior: smooth;
+  width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
 }
 body {
   margin: 0;
